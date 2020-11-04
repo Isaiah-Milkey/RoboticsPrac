@@ -1,2 +1,2 @@
-# RoboticsPrac.
+# RoboticsPractice
 Testing the repository
