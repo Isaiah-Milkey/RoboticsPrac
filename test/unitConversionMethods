@@ -1,0 +1,22 @@
+// package test;
+
+// import java.util.Scanner;
+
+
+// class testmethod {
+//     public static void main(String[] args) {
+// int num = 10;
+// Scanner scanner = new Scanner(System.in);
+// String testString = scanner.nextline();
+
+// printSmiley(num, "Print this ten times");
+//     }
+
+//     public static void printText(int numberOfSmiley, String textToPrint) {
+//         //Print a smiley face
+//         for(int i =0; i < 10; i++) {
+//             System.out.println(":)");
+//         }
+
+//     }
+// }

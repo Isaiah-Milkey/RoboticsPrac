@@ -1,0 +1,24 @@
+package test;
+
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.ArrayList; 
+import java.util.HashMap;
+
+
+
+public class Hashmap {
+    public static void main(String[] args) {
+
+        HashMap<String, String> names = new HashMap<String, String>();
+
+        names.put("Mitch", "Zakocs");
+        names.put("Angel", "Heredia");
+        names.put("Isaiah", "Milkey");
+
+        System.out.println(names.get("Isaiah"));
+
+
+
+    }
+}

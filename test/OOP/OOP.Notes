@@ -1,0 +1,35 @@
+
+OBJECT ORIENTED PROGRAMMING
+
+Object in Java:  can be abstract, or concrete
+ex: shape/ or open data file
+
+Class: blueprint/ layout for an object
+"instance of a class" - basically an object 
+-variables for each time you make an object instance
+
+
+
+Constructor: tells how to create an object of a class
+Ex: public Person(String name, int age, double weight, double height) {
+    this.name = name;
+    this.age = age;
+    this.weight = weight;
+    this.height = height;
+
+    //{"this" = proves the instance of the class} 
+
+}
+
+Object of a class Ex:
+//Person mitch = new Person("Mitch", 17, 130, 60);
+1. name of ckass
+2. name of object
+3. add new/ instance of class
+
+ex: 
+Scanner = gradeScanner = new Scanner (System.in);
+
+How to call method      Q. Do methods carry the variables from objects?
+Ex:
+mitch.maximumheartrate();
